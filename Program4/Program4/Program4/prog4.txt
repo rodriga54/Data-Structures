@@ -1,0 +1,41 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 AndaleMono;\f1\fnil\fcharset0 Cambria;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri720
+
+\f0\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri720\qr
+
+\f1 \cf0                                                         PREFACE\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri720
+
+\f2 \cf0 \
+
+\f1 This is a book about the computer language called C. If you are\
+seeking a book to increase your typing speed, expand on your\
+knowledge of word processing, or learn the secrets of chip\
+fabrication and design, this is not the one for you. However , if\
+you want to become thoroughly familiar with the C programming\
+language, then you have made a wise choice. For this book is devoted\
+to just that--to help you become proficient in C.\
+\
+        It is one thing to read about a language; it is quite another to\
+get involved in it.. The best and most time-effective way to absorb\
+a language such as C is to have 1 terminal or computer available to\
+you , preferably at you fingertips. You will be exposed  to well\
+over 100 C programs in this book.\
+\
+        You are encouraged to experiment with the programs illustrated\
+in this text. Omit keywords, change a comma to a period, ,\
+deliberately forget to terminate a statement with the required\
+semicolon, etc. You can do whatever you want without having to worry\
+about causing any damage to the computer, because you simply can't.\
+Play "what if" games to your heart's content. Familiarity with the\
+language will bring with it greater understanding ;the more you\
+\pard\pardeftab720\ri720
+\cf0 understand about "C", the more you will enjoy it. ???
+\f2 \
+}
